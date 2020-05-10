@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .vscode
 /data
+/pytorch-chatbot-master
 
 # C extensions
 *.so
